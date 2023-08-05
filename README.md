@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shelbie, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Shelbie, an <a href="https://www.linkedin.com/in/shelbie-ramos-149699282/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
